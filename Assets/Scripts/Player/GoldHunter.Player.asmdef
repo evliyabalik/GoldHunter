@@ -1,0 +1,18 @@
+{
+    "name": "GoldHunter.Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e084cc89678d45545b8933270aa210cf",
+        "GUID:6d89e43db43d6f5418cc757256922fba",
+        "GUID:d2474a624dc420741b50f7b12406da46"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

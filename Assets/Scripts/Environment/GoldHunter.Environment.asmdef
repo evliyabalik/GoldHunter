@@ -1,0 +1,17 @@
+{
+    "name": "GoldHunter.Environment",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6d89e43db43d6f5418cc757256922fba",
+        "GUID:e084cc89678d45545b8933270aa210cf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
